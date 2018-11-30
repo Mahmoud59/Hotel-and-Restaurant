@@ -37,7 +37,7 @@
                 <a class="right carousel-control" href="#RoomCarousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption"><a href="<?= base_url()?>Project/menu">Menu</a></div>
+            <div style="text-align: center; font-size: 20px" class="caption"><a href="<?= base_url()?>Project/menu">Menu</a></div>
         </div>
     </div>
 </div>
